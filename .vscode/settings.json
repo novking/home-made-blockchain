@@ -1,0 +1,6 @@
+{
+    "jshint.enable": true,
+    "eslint.enable": true,
+    "javascript.format.enable": true,
+    "json.format.enable": true,
+}
